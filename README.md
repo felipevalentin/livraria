@@ -1,4 +1,4 @@
-# livraria
+# Livraria
 Um aplicativo de balcão de livraria, implementado com orientação a objetos. Salvando informações como arquivo de texto.
 
 ## Menu
